@@ -208,6 +208,20 @@ nav li:first-child a{
 
 @media (min-width: 320px) and (max-width: 480px) {
 
+    .home-img{
+        background-image: url(images/face.jpg);
+        background-size: cover;
+        flex: 1;
+        margin: 20px 10px 10px 10px;
+        height: 40vh;
+        margin-top: 40px;
+    }
+    .home-grid{
+        display: flex;
+        flex-wrap:wrap;
+        height: 100%;
+        justify-content: center;
+    }
   .navbar-container input[type="checkbox"],
   .navbar-container .hamburger-lines {
     display: block;
@@ -311,8 +325,8 @@ nav li:first-child a{
   }
 
 .home-hello{
-    margin-left: 3px;
     
+    margin-top: 50px;
 }
 
 .first-project{
