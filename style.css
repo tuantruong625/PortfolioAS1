@@ -347,6 +347,7 @@ nav li:first-child a{
     text-align: center;
     line-height: 2rem;
     font-size: smaller;
+    margin-right: 5px;
 }
 
 }
@@ -381,8 +382,8 @@ nav li:first-child a{
         width: 100%;
     }
     .first-proj-img{
-        width: 450px;
-        height: 250px;
+        width: 370px;
+        height: 220px;
         margin-left: 10%;
         margin-top:  20px;
         margin-bottom: -100PX;
