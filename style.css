@@ -318,6 +318,7 @@ nav li:first-child a{
 .first-project{
     display: block;
     align-items: center;
+    
 }
 .project-heading-txt{
     font-size: 2rem;
@@ -354,7 +355,14 @@ nav li:first-child a{
 
 .skills-card {
  width: 310px;
- height: 200px;
+ height: 210px;
+}
+
+.Illustrator-icon{
+    max-height: 100px;
+}
+.Web-icon{
+    max-height: 100px;
 }
 
 }
